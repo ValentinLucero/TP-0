@@ -97,8 +97,3 @@ En cuanto a **subconjuntos**, existen varios reconocidos formalmente: las distin
 
 En gran medida sí, a nivel de **código fuente**: un programa escrito siguiendo el estándar ISO puede compilarse en compiladores conformes (`gcc`, `clang`, y con matices `MSVC`) para arquitecturas muy distintas (x86, ARM, RISC-V, microcontroladores de 8 bits) sin reescribir el código. Esto fue, de hecho, uno de los objetivos originales de su diseño. No obstante, la transportabilidad **no es absoluta**: el tamaño de tipos como `int` o `long`, el orden de bytes (*endianness*), la alineación de memoria y detalles de la ABI (*Application Binary Interface*) pueden variar entre plataformas, lo cual puede introducir comportamientos distintos si el código no se escribe con cuidado. Para mitigar esto, el propio estándar (desde C99) incorpora `stdint.h`, con tipos de tamaño fijo (`int32_t`, `uint8_t`, etc.) que mejoran la portabilidad real del código.
 
----
-
-## Nota
-
-Ambos ejercicios se resolvieron tomando **C** como único lenguaje de análisis. La consigna permite repetir el ejercicio comparando con un segundo lenguaje conocido; en caso de agregarlo, se recomienda contrastar particularmente con un lenguaje de paradigma declarativo (por ejemplo, uno funcional) para evidenciar mejor las diferencias señaladas en el material teórico del curso.
