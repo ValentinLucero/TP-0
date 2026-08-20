@@ -26,7 +26,7 @@ Entre las reglas escritas más importantes se encuentran:
 
 Estas reglas están descritas mediante una gramática formal (similar en espíritu a la BNF usada por ALGOL 60) dentro del propio estándar ISO, lo cual le da a C una definición sintáctica y semántica no ambigua.
 
-### 2. Creencias de los profesionales: ¿qué características se creen "mejores" que en otros lenguajes?
+### 2. Creencias de los profesionales: ¿Qué características particulares del lenguaje se cree que sean "mejores" que en otros lenguajes?
 
 Dentro de la comunidad de C existen una serie de creencias fuertemente arraigadas:
 
@@ -48,7 +48,7 @@ C fue diseñado por Dennis Ritchie (con aportes de Ken Thompson) en los Laborato
 
 En síntesis, el estilo que los creadores consideraron mejor fue el paradigma imperativo estructurado en bloques, con procedimientos como unidad de modularización, priorizando el control explícito del programador sobre el estado de la máquina.
 
-### 4. Ejemplares: ¿qué clase de problemas pueden resolverse más fácilmente en C?
+### 4. Ejemplares: ¿Qué clase de problemas pueden resolverse más fácilmente en el lenguaje?
 
 C es el ejemplar por excelencia para problemas que requieren control fino sobre el hardware y máximo rendimiento, entre ellos:
 
