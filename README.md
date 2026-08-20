@@ -8,7 +8,7 @@
 
 ## Ejercicio 1
 
-*Análisis de C según los cuatro componentes de un paradigma propuestos por Thomas Kuhn.*
+
 
 ### 1. Generalización simbólica: ¿cuáles son las reglas escritas del lenguaje?
 
