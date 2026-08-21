@@ -1,4 +1,4 @@
-# Aplicando lo Aprendido 0 — Paradigmas, lenguajes y programas
+### Aplicando lo Aprendido 0 — Paradigmas, lenguajes y programas
 
 Nombre y Apellido: Valentin Lucero
 
@@ -8,7 +8,7 @@ Lenguaje elegido: C
 
 ---
 
-## Ejercicio 1
+### Ejercicio 1
 
 
 
