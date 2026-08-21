@@ -24,8 +24,6 @@ Entre las reglas escritas más importantes se encuentran:
 - Un preprocesador independiente del compilador, con directivas propias (#include, #define, #ifdef) que constituyen casi un mini-lenguaje textual previo a la compilación.
 - Reglas de compilación separada (archivos .c y .h) y de enlazado (linking) que permiten construir programas grandes a partir de módulos independientes.
 
-Estas reglas están descritas mediante una gramática formal (similar en espíritu a la BNF usada por ALGOL 60) dentro del propio estándar ISO, lo cual le da a C una definición sintáctica y semántica no ambigua.
-
 ### 2. Creencias de los profesionales: ¿Qué características particulares del lenguaje se cree que sean "mejores" que en otros lenguajes?
 
 Dentro de la comunidad de C existen una serie de creencias fuertemente arraigadas:
