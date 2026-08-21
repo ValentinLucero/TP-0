@@ -63,8 +63,6 @@ En cambio, C resulta comparativamente más costoso (en tiempo de desarrollo) par
 
 ## Ejercicio 2
 
-Análisis de C según los ejes propuestos para la elección de un lenguaje de programación.
-
 ### 1. ¿Tiene una sintaxis y una semántica bien definida? ¿Existe documentación oficial?
 
 Sí. C cuenta con una sintaxis y semántica formalmente especificadas en el estándar ISO/IEC 9899, mantenido por el comité WG14, con revisiones periódicas (C89/C90, C99, C11, C17, C23). Cada revisión define de manera precisa la gramática del lenguaje y el comportamiento esperado de cada construcción, incluyendo casos de comportamiento indefinido (undefined behavior), no especificado (unspecified behavior) y definido por la implementación (implementation-defined behavior), lo cual es una particularidad importante de C: no todo está 100% definido de forma unívoca, y eso queda documentado explícitamente. Además del estándar, existe abundante documentación oficial y de referencia (manuales de gcc/clang, la biblioteca estándar documentada en `man` pages, y el propio libro de K&R como referencia histórica).
