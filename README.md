@@ -59,7 +59,7 @@ C es el ejemplar por excelencia para problemas que requieren control fino sobre 
 
 ---
 
-## Ejercicio 2
+### Ejercicio 2
 
 ### 1. ¿Tiene una sintaxis y una semántica bien definida? ¿Existe documentación oficial?
 
